@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Mario Bros",
+        "genre": "Adventure",
+        "platform": "Nintendo"  
+    },
+    {
+        "nome": "Call of Duty",
+        "genre": "FPS",
+        "platform": "Playstation"        
+    }
+]
